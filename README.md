@@ -9,6 +9,9 @@ This repository shows my history of ElectronJS learning.
 - Check the Installed Electron JS Version:
 - `npm list -g electron`
 
+## Text-based Tutorials: 
+- [How to Build Your First Desktop App with JavaScript Using Electron](https://medium.freecodecamp.org/how-to-build-your-first-app-with-electron-41ebdb796930)
+
 ## Video Tutorials:
 - [ElectronJS - Course1](https://www.youtube.com/playlist?list=PLYxzS__5yYQmocPoLUiEAfD1cJNjhdQar)
 - [ElectronJS - Course2](https://www.youtube.com/playlist?list=PLC3y8-rFHvwiCJD3WrAFUrIMkGVDE0uqW)
