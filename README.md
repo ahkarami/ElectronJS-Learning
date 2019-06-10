@@ -12,6 +12,7 @@ This repository shows my history of ElectronJS learning.
 ## Text-based Tutorials: 
 - [How to Build Your First Desktop App with JavaScript Using Electron](https://medium.freecodecamp.org/how-to-build-your-first-app-with-electron-41ebdb796930)
 - [Electron in Action - Book](https://www.manning.com/books/electron-in-action)
+- [Building a desktop application with Electron](https://medium.com/developers-writing/building-a-desktop-application-with-electron-204203eeb658)
 
 ## Video Tutorials:
 - [ElectronJS - Course1](https://www.youtube.com/playlist?list=PLYxzS__5yYQmocPoLUiEAfD1cJNjhdQar)
