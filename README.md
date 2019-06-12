@@ -20,6 +20,7 @@ This repository shows my history of ElectronJS learning.
 - [ElectronJS - Course2](https://www.youtube.com/playlist?list=PLC3y8-rFHvwiCJD3WrAFUrIMkGVDE0uqW)
 - [ElectronJS - Video Tutorial 1 - Build an Electron App in Under 60 Minutes](https://www.youtube.com/watch?v=kN1Czs0m1SU)  
 - [ElectronJS - Video Tutorial 2 - Installing ElectronJS](https://www.youtube.com/watch?v=5NQ-NbjLLMw)  
+- [ElectronJS - Video Tutorial 3 - Learn how to build an Electron App](https://www.youtube.com/watch?v=CDXKMD1KkkA)
 
 ## Useful Project Smaples:
 - [Windows 95 in Electron!!!](https://github.com/felixrieseberg/windows95)
