@@ -28,3 +28,4 @@ This repository shows my history of ElectronJS learning.
 
 ## Other Useful Tools:
 - [Electron-Builder](https://github.com/electron-userland/electron-builder)
+- [Photon - fastest way to build beautiful Electron apps](http://photonkit.com/) 
