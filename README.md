@@ -26,3 +26,5 @@ This repository shows my history of ElectronJS learning.
 - [Windows 95 in Electron!!!](https://github.com/felixrieseberg/windows95)
 - [Creating an Electron chat using Socket.io](http://luiseduardobrito.com/blog/creating-electron-chat-using-socket-io)
 
+## Other Useful Tools:
+- [Electron-Builder](https://github.com/electron-userland/electron-builder)
