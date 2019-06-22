@@ -30,3 +30,4 @@ This repository shows my history of ElectronJS learning.
 - [Electron-Builder](https://github.com/electron-userland/electron-builder)
 - [Photon - fastest way to build beautiful Electron apps](http://photonkit.com/) 
 - [Photon - GitHub](https://github.com/connors/photon)  
+- [Electron-Vue](https://github.com/SimulatedGREG/electron-vue)
